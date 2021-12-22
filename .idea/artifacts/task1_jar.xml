@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="task1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/task1_jar</output-path>
+    <root id="archive" name="PerformanceLab.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/task1/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="PerformanceLab" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/json/json/20160810/json-20160810.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
